@@ -1,6 +1,6 @@
 # Numpyflow1.0 使用numpy搭建的简单的深度学习框架
 
-# Numpyflow1.0 Framework for deep learning (An implementation of Pytorch-like framework in Numpy)
+## Numpyflow1.0 Framework for deep learning (An implementation of Pytorch-like framework in Numpy)
 
 此框架参考了pytorch的一些实现方式，使用上和pytorch相似，特点上可以利用单一的命令实现网络梯度的反传，以及网络的参数更新
 
